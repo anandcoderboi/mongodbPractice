@@ -1,4 +1,5 @@
-# mongodbPractice![ss1](https://user-images.githubusercontent.com/49033626/206903808-4b5309c0-1d5d-4dc6-a045-933daa886ef2.png)
+# mongodbPractice
+##okdd ![ss1](https://user-images.githubusercontent.com/49033626/206903808-4b5309c0-1d5d-4dc6-a045-933daa886ef2.png)
 ![ss2](https://user-images.githubusercontent.com/49033626/206903811-9641a1d9-012f-4f1f-9ec3-ae6a65e29792.png)
 ![ss3](https://user-images.githubusercontent.com/49033626/206903814-9611c528-24ce-4073-b030-d1d427aff67d.png)
 ![SS5](https://user-images.githubusercontent.com/49033626/206903816-a7897d92-4a7f-490e-81b7-75c8162acc50.png)
